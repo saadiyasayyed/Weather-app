@@ -1,2 +1,1 @@
-# Weather-app
-{}
+weather detector
